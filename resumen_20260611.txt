@@ -20,17 +20,17 @@ RENTA FIJA
 - Treasury 30Y           4.95%          (-7 bps)
 
 DIVISAS
-- USD/CLP                901.72         (-1.61%)
-- EUR/USD                1.1582         (+0.41%)
-- USD/BRL                5.0950         (-1.83%)
-- GBP/USD                1.3416         (+0.33%)
-- USD/JPY                159.97         (-0.26%)
+- USD/CLP                903.35         (-1.43%)
+- EUR/USD                1.1581         (+0.39%)
+- USD/BRL                5.0945         (-1.84%)
+- GBP/USD                1.3424         (+0.39%)
+- USD/JPY                159.91         (-0.29%)
 
 COMMODITIES
-- WTI Petróleo           $86.43         (-4.00%)
-- Brent (UK)             $89.20         (-4.19%)
-- Oro                    $4231.6        (+3.00%)
-- Cobre                  $6.387         (+2.21%)
+- WTI Petróleo           $86.42         (-4.01%)
+- Brent (UK)             $89.09         (-4.31%)
+- Oro                    $4233.8        (+3.06%)
+- Cobre                  $6.391         (+2.28%)
 
 Fuente: Yahoo Finance — Cierres vs. día bursátil anterior
 
@@ -76,27 +76,45 @@ ACCIONES (Top movers)
 Fuente: Yahoo Finance
 
 ──────────────────────────────────────────────────────────
-🔴 [ALTA] Trump anuncia ataque a Irán 'muy fuerte esta noche' mientras cese al fuego tambalea
-   Global · Geopolítica / Conflicto Militar · AP · 11/06
+🔴 [ALTA] BCE sube tasas 25 pbs a +0.39% — Primera alza desde 2023
+   Europa · Bancos Centrales · bloomberg.com · 11/06
 
-   Trump declaró que EE.UU. golpeará a Irán 'muy fuerte esta noche' (12:52 p.m. ET) y amenazó con tomar una isla iraní clave para exportaciones de petróleo mientras un posible cese al fuego perdía firmeza. Irán y EE.UU. intercambiaron fuego por segundo día consecutivo.
-   → WTI Petróleo: $86.43  (-4.00%)  [Yahoo Finance]
-   → Oro Futuros (GC=F): $4,231.60  (+3.00%)  [Yahoo Finance]
-   → WTI Petróleo (CL=F): $86.43  (-4.00%)  [Yahoo Finance]
+   El Banco Central Europeo subió hoy su tasa de referencia en 25 puntos básicos a 2,25%, la primera alza desde 2023, citando presiones inflacionarias derivadas de la guerra EE.UU.–Irán. El BCE revisó al alza sus proyecciones de inflación a 3% para 2026 y a la baja el crecimiento a 0,8% para 2026.
+   → EUR/USD: 1.1581  (+0.39%)  [Yahoo Finance]
+   → EUR/USD (EUR=X): $0.86  (-0.42%)  [Yahoo Finance]
+   → EuroStoxx 50 ETF (FEZ): $68.92  (+3.41%)  [Yahoo Finance]
 
 ──────────────────────────────────────────────────────────
-🔴 [ALTA] Fed mantiene tasa en -8 bps–3,75%; mercados asignan 96–98% de probabilidad de pausa en junio
-   EE.UU. · Bancos Centrales · Fed / CME FedWatch · 11/06
+🔴 [ALTA] Trump amenaza con ataques inminentes a Irán y tomar isla clave para el petróleo
+   Global · Geopolítica / Militar · bloomberg.com / wsj.com · 11/06
 
-   La Reserva Federal no tomó decisión hoy y mantiene su tasa en el rango 3,50%–3,75% vigente desde abril. Los futuros de tasas asignan una probabilidad del 96–98% a que el FOMC mantenga tasas sin cambios en la reunión del 16–17 de junio bajo la presidencia entrante de Kevin Warsh.
+   El presidente Trump declaró el 11 de junio a las 12:52 PM ET que EE.UU. golpeará a Irán 'muy fuertemente esta noche', y amenazó con tomar una isla iraní estratégica para las exportaciones de petróleo, mientras el cese al fuego pactado vía Pakistán se derrumba. EE.UU. e Irán intercambiaron fuego por segundo día consecutivo.
+   → WTI Petróleo: $86.42  (-4.01%)  [Yahoo Finance]
+   → Oro (GC=F): $4,233.80  (+3.06%)  [Yahoo Finance]
+   → WTI Crudo (CL=F): $86.42  (-4.01%)  [Yahoo Finance]
+
+──────────────────────────────────────────────────────────
+🔴 [ALTA] FED: Sin cambios previstos en reunión del 16-17 de junio; mercados asignan 96-8 bps de probabilidad
+   EE.UU. · Bancos Centrales · bloomberg.com / wsj.com · 11/06
+
+   La Fed mantiene el rango objetivo en 3,50%–3,75% y los mercados asignan una probabilidad del 96-98% a que las tasas se mantengan sin cambios en la próxima reunión del 16-17 de junio, bajo la conducción de Kevin Warsh. En la reunión de abril la votación fue 8 a 4, la primera vez desde octubre de 1992 con cuatro disidentes.
    → Treasury 10Y: 4.46%  (-8 bps)  [Yahoo Finance]
    → Treasury 10Y: 4.46%  (-8 bps)  [Yahoo Finance]
 
 ──────────────────────────────────────────────────────────
-🔴 [ALTA] Rebote tecnológico liderado por semiconductores: SMCI +1.75%, AMD +7,97%
-   EE.UU. · Renta Variable / Tecnología · Yahoo Finance · 11/06
+🔴 [ALTA] Trump rechaza contrapropuesta iraní de paz y califica la oferta de 'totalmente inaceptable'
+   Global · Geopolítica · bloomberg.com / wsj.com · 11/06
 
-   El sector tecnológico y de semiconductores lideró el rebote del mercado estadounidense, impulsado por el dato de inflación en línea con expectativas que alivió temores de sorpresas adicionales y redujo la presión sobre activos de riesgo.
+   El presidente Trump rechazó la contrapropuesta iraní para terminar la guerra, calificándola de 'totalmente inaceptable', erosionando la confianza del mercado en acuerdos de paz cercanos. El bloqueo del Estrecho de Ormuz ordenado por Trump sigue vigente.
+   → WTI Petróleo: $86.42  (-4.01%)  [Yahoo Finance]
+   → WTI Crudo (CL=F): $86.42  (-4.01%)  [Yahoo Finance]
+   → Oro (GC=F): $4,233.80  (+3.06%)  [Yahoo Finance]
+
+──────────────────────────────────────────────────────────
+🔴 [ALTA] Sector tecnológico lidera alza en Wall Street: SMCI +1.75%, AMD +7,97%, CRWD +6,76%
+   EE.UU. · Renta Variable · bloomberg.com · 11/06
+
+   El sector tecnológico lideró las ganancias en Wall Street impulsado por el dato de CPI núcleo más moderado de lo esperado, con Super Micro Computer, AMD y CrowdStrike encabezando los avances. El Nasdaq subió 2,54% y el S&P 500 avanzó 1,75%.
    → S&P 500: $7,394.30  (+1.75%)  [Yahoo Finance]
    → Super Micro (SMCI): $31.97  (+9.22%)  [Yahoo Finance]  Peso SPY: 0.03%  Peso QQQ: 0.18%
    → AMD (AMD): $488.45  (+7.97%)  [Yahoo Finance]  Peso SPY: 1.22%  Peso QQQ: 2.34%
@@ -105,39 +123,15 @@ Fuente: Yahoo Finance
    → Dell (DELL): $391.45  (+5.85%)  [Yahoo Finance]  Peso SPY: 0.18%  Peso QQQ: 0.22%
 
 ──────────────────────────────────────────────────────────
-🟡 [MEDIA] ARM Holdings y Micron caen por rotación sectorial dentro de semiconductores
-   EE.UU. · Renta Variable / Tecnología · Yahoo Finance · 11/06
-
-   En contramano del sector, ARM Holdings y Micron registraron caídas en una jornada de rotación dentro del universo semiconductor, donde los inversores privilegiaron otras compañías del mismo sector.
-   → Arm Holdings (ARM): $307.43  (-5.37%)  [Yahoo Finance]  Peso QQQ: 0.65%
-   → Micron (MU): $891.88  (-4.70%)  [Yahoo Finance]  Peso SPY: 1.66%  Peso QQQ: 4.90%
-
-──────────────────────────────────────────────────────────
-🟡 [MEDIA] Oro sube hasta $4.231,6 beneficiado por demanda refugio y debilidad del dólar
-   Global · Commodities / Refugio · Yahoo Finance · 11/06
-
-   El metal precioso avanzó impulsado por la escalada del conflicto con Irán —incluyendo declaraciones de Trump sobre un ataque nocturno e intercambio de fuego por segundo día— y por el debilitamiento del dólar asociado al dato de inflación en línea con expectativas.
-   → Oro: $4231.6  (+3.00%)  [Yahoo Finance]
-   → Oro Futuros (GC=F): $4,231.60  (+3.00%)  [Yahoo Finance]
-
-──────────────────────────────────────────────────────────
-🔵 [BAJA] Fed anuncia nueva regla de estándares de datos
-   EE.UU. · Regulación / Bancos Centrales · Fed · 11/06
-
-   La Reserva Federal publicó hoy una nueva regla relacionada con estándares de datos, en línea con sus iniciativas de modernización de reportes e infraestructura de información del sistema financiero.
-
-──────────────────────────────────────────────────────────
 PRÓXIMOS DATOS ECONÓMICOS (PRÓXIMOS 4 DÍAS HÁBILES)
-- 16 jun - martes  EE.UU.       Reunión FOMC — Decisión de tasa Fed | Consenso: Sin cambios en 3,50%–3,75% (probabilidad 96–98% según futuros) | Primera reunión bajo presidencia entrante de Kevin Warsh; sesión de dos días 16–17 de junio
-- 14 jul - martes  EE.UU.       CPI Junio 2026 (BLS) | Publicación a las 8:30 a.m. ET, confirmado por BLS
+- 16-17 jun - mar/mié EE.UU.       Decisión de tasas FOMC — Fed | Consenso: Sin cambios; rango 3,50%–3,75% (probabilidad 96-98% según futuros) | Primera reunión bajo presidencia de Kevin Warsh; votación anterior fue 8-4 a favor de mantener
 
 ──────────────────────────────────────────────────────────
 NARRATIVA DEL DÍA
-- Fed mantiene tasa en -8 bps–3,75%; mercados asignan 96–98% de probabilidad de pausa en junio | Treasury 10Y: 4.46% (-8 bps) — La Reserva Federal no tomó decisión hoy y mantiene su tasa en el rango 3,50%–3,75% vigente desde abril. Los futuros de t
-- Trump anuncia ataque a Irán 'muy fuerte esta noche' mientras cese al fuego tambalea | WTI Petróleo: $86.43 (-4.00%) — Trump declaró que EE.UU. golpeará a Irán 'muy fuerte esta noche' (12:52 p.m. ET) y amenazó con tomar una isla iraní clav
-- ARM Holdings y Micron caen por rotación sectorial dentro de semiconductores — En contramano del sector, ARM Holdings y Micron registraron caídas en una jornada de rotación dentro del universo semico
-- Oro sube hasta $4.231,6 beneficiado por demanda refugio y debilidad del dólar | Oro: $4231.6 (+3.00%) — El metal precioso avanzó impulsado por la escalada del conflicto con Irán —incluyendo declaraciones de Trump sobre un at
-- Fed anuncia nueva regla de estándares de datos — La Reserva Federal publicó hoy una nueva regla relacionada con estándares de datos, en línea con sus iniciativas de mode
-- Rebote tecnológico liderado por semiconductores: SMCI +1.75%, AMD +7,97% | S&P 500: $7,394.30 (+1.75%) — El sector tecnológico y de semiconductores lideró el rebote del mercado estadounidense, impulsado por el dato de inflaci
+- FED: Sin cambios previstos en reunión del 16-17 de junio; mercados asignan 96-8 bps de probabilidad | Treasury 10Y: 4.46% (-8 bps) — La Fed mantiene el rango objetivo en 3,50%–3,75% y los mercados asignan una probabilidad del 96-98% a que las tasas se m
+- Trump amenaza con ataques inminentes a Irán y tomar isla clave para el petróleo | WTI Petróleo: $86.42 (-4.01%) — El presidente Trump declaró el 11 de junio a las 12:52 PM ET que EE.UU. golpeará a Irán 'muy fuertemente esta noche', y
+- Trump rechaza contrapropuesta iraní de paz y califica la oferta de 'totalmente inaceptable' | WTI Petróleo: $86.42 (-4.01%) — El presidente Trump rechazó la contrapropuesta iraní para terminar la guerra, calificándola de 'totalmente inaceptable',
+- Sector tecnológico lidera alza en Wall Street: SMCI +1.75%, AMD +7,97%, CRWD +6,76% | S&P 500: $7,394.30 (+1.75%) — El sector tecnológico lideró las ganancias en Wall Street impulsado por el dato de CPI núcleo más moderado de lo esperad
+- BCE sube tasas 25 pbs a +0.39% — Primera alza desde 2023 | EUR/USD: 1.1581 (+0.39%) — El Banco Central Europeo subió hoy su tasa de referencia en 25 puntos básicos a 2,25%, la primera alza desde 2023, citan
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
